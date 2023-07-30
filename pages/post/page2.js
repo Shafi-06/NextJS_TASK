@@ -12,6 +12,9 @@ return(
 <h2>
 <Link href="/post/page1">Register</Link>
 </h2>
+<h2>
+<Link href="/post/page3">Show Number in URL</Link>
+</h2>
 </>
 );
 }
